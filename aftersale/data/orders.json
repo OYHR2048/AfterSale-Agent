@@ -1,0 +1,12 @@
+[
+ {"id":"ORD10001","owner":"alice","status":"delivered","sku":"HEADPHONE","amount_cents":19900,"customized":0,"days":3,"logistics":"delivered","stock":5},
+ {"id":"ORD10002","owner":"alice","status":"delivered","sku":"CUSTOM_CUP","amount_cents":8900,"customized":1,"days":10,"logistics":"delivered","stock":2},
+ {"id":"ORD10003","owner":"alice","status":"paid","sku":"TSHIRT","amount_cents":5900,"customized":0,"days":null,"logistics":"not_shipped","stock":10},
+ {"id":"ORD10004","owner":"alice","status":"delivered","sku":"CUP_EMPTY","amount_cents":8900,"customized":1,"days":10,"logistics":"delivered","stock":0},
+ {"id":"ORD10005","owner":"alice","status":"shipped","sku":"BOOK","amount_cents":3900,"customized":0,"days":null,"logistics":"in_transit","stock":4},
+ {"id":"ORD10006","owner":"alice","status":"shipped","sku":"LAMP","amount_cents":12900,"customized":0,"days":null,"logistics":"stalled_72h","stock":3},
+ {"id":"ORD10007","owner":"alice","status":"delivered","sku":"OLD_CUP","amount_cents":8900,"customized":1,"days":20,"logistics":"delivered","stock":1},
+ {"id":"ORD10008","owner":"alice","status":"delivered","sku":"CONFLICT","amount_cents":6900,"customized":0,"days":2,"logistics":"in_transit","stock":3},
+ {"id":"ORD10009","owner":"bob","status":"delivered","sku":"BOB_SHIRT","amount_cents":5900,"customized":0,"days":2,"logistics":"delivered","stock":2},
+ {"id":"ORD10010","owner":"alice","status":"delivered","sku":"OLD_BOOK","amount_cents":3900,"customized":0,"days":9,"logistics":"delivered","stock":4}
+]

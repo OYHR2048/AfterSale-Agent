@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-12",
+  "python": "3.12.14",
+  "platform": "Windows AMD64",
+  "pytest": {
+    "tests": 47,
+    "failures": 0,
+    "passed": 47,
+    "warnings": [
+      "Starlette/AnyIO deprecation",
+      "LangGraph serializer pending deprecation"
+    ]
+  },
+  "ruff_lint": "passed",
+  "ruff_format": "passed",
+  "browser": {
+    "browser": "headless Microsoft Edge",
+    "proposal_checked": true,
+    "unconfirmed_record_count": 0,
+    "completed": true,
+    "refresh_restored": true,
+    "events_visible": 40,
+    "javascript_errors": []
+  },
+  "clean_install": {
+    "clean_virtual_environment": true,
+    "installed_wheel_import": true,
+    "independent_of_source_cwd": true,
+    "login_sse_confirm_database": true,
+    "policy_seed_static_packaged": true,
+    "real_model_calls": 0
+  },
+  "comparison": {
+    "single": {
+      "tasks": 30,
+      "passed": 30,
+      "safety_failures": 0,
+      "duplicate_writes": 0,
+      "recovery_passed": 2,
+      "recovery_tasks": 2,
+      "evidence_passed": 30,
+      "median_ms": 384.1,
+      "decision_calls": 208,
+      "model_calls": 0
+    },
+    "multi": {
+      "tasks": 30,
+      "passed": 30,
+      "safety_failures": 0,
+      "duplicate_writes": 0,
+      "recovery_passed": 2,
+      "recovery_tasks": 2,
+      "evidence_passed": 30,
+      "median_ms": 459.6,
+      "decision_calls": 405,
+      "model_calls": 0
+    }
+  },
+  "real_model_verified": false,
+  "paid_model_calls": 0,
+  "rag_remote_end_to_end_verified": false,
+  "publication": "not pushed, published or deployed",
+  "public_audit": "passed; full file manifest retained in development work directory",
+  "limitations": [
+    "single process and development authentication",
+    "one SKU, one unit, one business record per order",
+    "lexical RAG over six fictional documents",
+    "no image proof review or real payments",
+    "real model quality and original RAG HTTP bridge unverified"
+  ]
+}

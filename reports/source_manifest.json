@@ -1,0 +1,150 @@
+[
+  {
+    "origin": "local Adaptive-rag",
+    "file": "app/retrieval/tokenizer.py",
+    "sha256": "aa98e33d44a10ea000e3fca39e7f9f3051b16085238a254c27c526841e0d86bd",
+    "license": "MIT"
+  },
+  {
+    "origin": "local Adaptive-rag",
+    "file": "app/retrieval/bm25.py",
+    "sha256": "7dfe26d34542c74c684770d704c8eaddc992354b3da0247bf7649b6b17780610",
+    "license": "MIT"
+  },
+  {
+    "origin": "local Adaptive-rag",
+    "file": "app/retrieval/fusion.py",
+    "sha256": "32b4812bf0e8a9715578b0627e0edb0ea8fdc28015d849933f34891d45316b99",
+    "license": "MIT"
+  },
+  {
+    "origin": "local Adaptive-rag",
+    "file": "app/schemas/retrieval.py",
+    "sha256": "6ca1ad6060b8daa2bd72b1d8f5d40d873979c816a895a709e5c362e4f5d76e7f",
+    "license": "MIT"
+  },
+  {
+    "origin": "local Adaptive-rag",
+    "file": "knowledge/return_policy.md",
+    "sha256": "debca10f53f48c54fddae09c4a5e2dbd987160844ec70c642b418d77e488ae25",
+    "license": "MIT"
+  },
+  {
+    "origin": "local Adaptive-rag",
+    "file": "knowledge/return_custom.md",
+    "sha256": "17d9539ffba58b756db87038b363cba7768ce45e9f42325bfabe69598bcf3137",
+    "license": "MIT"
+  },
+  {
+    "origin": "local Adaptive-rag",
+    "file": "knowledge/logistics_exception.md",
+    "sha256": "04c810c3b9556ec2e869829465e1f75efb35d58e7965738836b74b1f49c04533",
+    "license": "MIT"
+  },
+  {
+    "origin": "local Adaptive-rag",
+    "file": "knowledge/shipping.md",
+    "sha256": "329c37f9791a11e61bb6311659419819a205da3d0c41473c6829b4278f183920",
+    "license": "MIT"
+  },
+  {
+    "origin": "local Adaptive-rag",
+    "file": "knowledge/refund_timeline.md",
+    "sha256": "209908ddefac67e81c8c4132bc3d110c1245228ebff6b8f5336c8c232d618969",
+    "license": "MIT"
+  },
+  {
+    "origin": "local Adaptive-rag",
+    "file": "LICENSE",
+    "sha256": "8cb6614747c71ac02441217bc48ebbba91bbae8022739b391de7db72e6d88309",
+    "license": "MIT"
+  },
+  {
+    "origin": "JoshuaC215/agent-service-toolkit",
+    "commit": "88ebfa1fadd1a207aa92115635abf7ed20d66a88",
+    "file": "LICENSE",
+    "sha256": "6d3a0e0f2358409cd2dcb90e42bfb3a8d100dd1bf248130d5710b6a38780cffc",
+    "license": "MIT",
+    "status": "selected adaptation or read-only reference; see docs/SOURCE.md"
+  },
+  {
+    "origin": "JoshuaC215/agent-service-toolkit",
+    "commit": "88ebfa1fadd1a207aa92115635abf7ed20d66a88",
+    "file": "pyproject.toml",
+    "sha256": "b6158b2ae5ff9b3ccb3cba9995ed85aeeafeb6be1790e9f8c11d84df0ed7dcd0",
+    "license": "MIT",
+    "status": "selected adaptation or read-only reference; see docs/SOURCE.md"
+  },
+  {
+    "origin": "JoshuaC215/agent-service-toolkit",
+    "commit": "88ebfa1fadd1a207aa92115635abf7ed20d66a88",
+    "file": "src/agents/interrupt_agent.py",
+    "sha256": "fb09f4f1b122983310613af326ca3bb3c950d9d34ab743eed8e6ce0a34cf7636",
+    "license": "MIT",
+    "status": "selected adaptation or read-only reference; see docs/SOURCE.md"
+  },
+  {
+    "origin": "JoshuaC215/agent-service-toolkit",
+    "commit": "88ebfa1fadd1a207aa92115635abf7ed20d66a88",
+    "file": "src/agents/langgraph_supervisor_agent.py",
+    "sha256": "038d9a5dcce445732f5317e6d12ea4660e992b07a6472bff910285362a81521e",
+    "license": "MIT",
+    "status": "selected adaptation or read-only reference; see docs/SOURCE.md"
+  },
+  {
+    "origin": "JoshuaC215/agent-service-toolkit",
+    "commit": "88ebfa1fadd1a207aa92115635abf7ed20d66a88",
+    "file": "src/memory/sqlite.py",
+    "sha256": "d1ac051508cf24f6cf2b641357e4d424b2c064b12ccd867343093c04cd280a15",
+    "license": "MIT",
+    "status": "selected adaptation or read-only reference; see docs/SOURCE.md"
+  },
+  {
+    "origin": "JoshuaC215/agent-service-toolkit",
+    "commit": "88ebfa1fadd1a207aa92115635abf7ed20d66a88",
+    "file": "src/service/service.py",
+    "sha256": "62156ef9bc1bbbef2393527634868f841833b62bf3aaa3f8e1bdee8990317d2b",
+    "license": "MIT",
+    "status": "selected adaptation or read-only reference; see docs/SOURCE.md"
+  },
+  {
+    "origin": "JoshuaC215/agent-service-toolkit",
+    "commit": "88ebfa1fadd1a207aa92115635abf7ed20d66a88",
+    "file": "tests/service/conftest.py",
+    "sha256": "43347360482e9eee4c8742215a30000876c75d4a3a22de9e97a88f63f29265ba",
+    "license": "MIT",
+    "status": "selected adaptation or read-only reference; see docs/SOURCE.md"
+  },
+  {
+    "origin": "JoshuaC215/agent-service-toolkit",
+    "commit": "88ebfa1fadd1a207aa92115635abf7ed20d66a88",
+    "file": "tests/service/test_agui.py",
+    "sha256": "affea95581d533bc9265b15650095122c52a7232c12dab25386eb97f0ccbf731",
+    "license": "MIT",
+    "status": "selected adaptation or read-only reference; see docs/SOURCE.md"
+  },
+  {
+    "origin": "JoshuaC215/agent-service-toolkit",
+    "commit": "88ebfa1fadd1a207aa92115635abf7ed20d66a88",
+    "file": "tests/service/test_auth.py",
+    "sha256": "314a36ba41c5bbbfc6db184ad0d914591d553faf38bba3e6f9541b9199f9465c",
+    "license": "MIT",
+    "status": "selected adaptation or read-only reference; see docs/SOURCE.md"
+  },
+  {
+    "origin": "JoshuaC215/agent-service-toolkit",
+    "commit": "88ebfa1fadd1a207aa92115635abf7ed20d66a88",
+    "file": "tests/service/test_service_lifespan.py",
+    "sha256": "f37a3a52c9a27c43505a7c8c430150b72dbc4c1133f9b82a7a5ec928aa637289",
+    "license": "MIT",
+    "status": "selected adaptation or read-only reference; see docs/SOURCE.md"
+  },
+  {
+    "origin": "JoshuaC215/agent-service-toolkit",
+    "commit": "88ebfa1fadd1a207aa92115635abf7ed20d66a88",
+    "file": "tests/service/test_threads_sqlite.py",
+    "sha256": "1eeff7fe378bbe7ae634436ff85997c3a57c0a04cb4103dbd427101f90ccbc4b",
+    "license": "MIT",
+    "status": "selected adaptation or read-only reference; see docs/SOURCE.md"
+  }
+]
